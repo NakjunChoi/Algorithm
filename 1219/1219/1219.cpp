@@ -95,6 +95,5 @@ int main(){
     if(flag) cout<< "Gee";
     else if( dis[E] == INF ) cout<<"gg\n";
     else cout<< -dis[E];
-    
     return 0;
 }
